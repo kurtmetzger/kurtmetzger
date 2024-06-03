@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Kurt Metzger</h1>
-<p>I'm a budding software developer from St. Charles, MO! I enjoy learning software development, web design, and making video games in my free time.</p>
+<p>I'm a budding software developer from St. Charles, MO! I enjoy learning software development, web design, and making <a href="https://store.steampowered.com/developer/goofygourdstudios">video games</a>a in my free time.</p>
 
-- 🔭 I’m currently working on learining web design through <a href="https://www.theodinproject.com/">The Odin Project</a> as well as making a video game called <a href="https://store.steampowered.com/app/2808260/Ducks_in_a_Row/">Ducks in a Row</a> on Steam
+- 🔭 I’m currently pursuing a Masters in Software Development through Maryville University, working on learining web design through <a href="https://www.theodinproject.com/">The Odin Project</a>, as well as making a video game called <a href="https://store.steampowered.com/app/2808260/Ducks_in_a_Row/">Ducks in a Row</a> on Steam
 - 🌱 I’m currently learning how to make web applications with Node, Express, MongoDB, and Django
 
 <h3 align="left">Languages and Tools:</h3>
