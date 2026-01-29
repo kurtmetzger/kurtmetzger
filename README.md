@@ -42,7 +42,7 @@ Full-stack app using **Node.js, Express, MongoDB**, and **AWS EC2**, with a **Py
 Developed a commercial website for a local piano academy using **HTML, CSS, and JavaScript**, focusing on responsive design and client UX goals.
 
 🔗 **Repo:** https://github.com/kurtmetzger/Amy-s-Piano-Academy-Website
-🖥️ **Live Demo: https:** //amyspianoacademy.com/
+🖥️ **Live Demo:** https://amyspianoacademy.com/
 
 ---
 
