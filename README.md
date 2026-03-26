@@ -34,7 +34,7 @@ Full-stack app using **Node.js, Express, MongoDB**, and **AWS EC2**, with a **Py
 **Features:** authentication, CRUD garden planner, dynamic planting timelines.
 
 🔗 **Repo:** https://github.com/kurtmetzger/Gardening-Assistant  
-🖥️ **Live Demo:** http://54.198.47.151/login  
+🖥️ **Live Demo:** http://54.87.5.45/ 
 
 ---
 
