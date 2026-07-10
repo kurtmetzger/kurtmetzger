@@ -31,7 +31,7 @@ I’m currently looking for **full-time software developer roles** and actively 
 
 ### 🌱 Gardening Assistant App  
 Full-stack app using **Node.js, Express, MongoDB**, and **AWS EC2**, with a **Python web scraper** for USDA zone planting data.  
-**Features:** authentication, CRUD garden planner, dynamic planting timelines.
+**Features:** User authentication, CRUD garden planner, dynamic planting timelines.
 
 🔗 **Repo:** https://github.com/kurtmetzger/Gardening-Assistant  
 🖥️ **Live Demo:** http://54.87.5.45/ 
@@ -47,7 +47,7 @@ Developed a commercial website for a local piano academy using **HTML, CSS, and 
 ---
 
 ### 🕹️ “Ducks in a Row” – Indie Game  
-A complete game built in **Godot (GDScript)** using modular design, feedback-driven iteration, and custom gameplay systems.
+A complete game built in **Godot (GDScript)** focusing on modular design, and applying user feedback into a polished product.
  
 🎮 **Steam Link:** https://store.steampowered.com/app/2808260/Ducks_in_a_Row/  
 
@@ -57,7 +57,7 @@ A complete game built in **Godot (GDScript)** using modular design, feedback-dri
 📧 Email: kurtametzger@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/kurt-metzger-440065233/ 
 
-I'm always open to new opportunities, collaborations, and interesting problems to solve.
+I'm always open to new opportunities to learn and apply new skills.
 
 ---
 
